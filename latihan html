@@ -1,23 +1,15 @@
-
-<DOCTYPE HTML >
+<!DOCTYPE html>
+</Name:kIki>
 <html Kiki collection>
 </head>
 <titel> kiki collection" </titel> <welcome to website kiki colllection.co.id">
     
 <body class:middle class">
 <main brand lokal.id->
-    <h1 class="cv>marketing</h1>
+    <h1 class="marketing"</h1>
      
-    
-      </div>
-      <button type="submit" shop Now</button>
-      <button type="button" onclick="buy"() purchase by top up dana or payment via bank"payment" </button>
-      <button type="submit" name="buy_here"class="brand personal">product</buton>
-      </form>
-</div>
+    <h1 =this is product=kiki_collection"></h1>
           
-   <h1>Trafic penjualan</h1>
-   <canvas id="about my lap"></canvas>
 
 <!-- tautan dann navigasi -->
   <titel>Platform"</titel>
@@ -32,37 +24,37 @@
 
       <!-- Table information -->
         <title>information"</title>
-    <head>my discon"</head>
-    <body>
+    <a>my discon"</a>
+    <content>
         <table="discoun_promosi" list="promotional product table of contents">cut price">
-           <tr>
-              <th>name_product</th>
-              <th>discount_persen%</th>
-              <th>normal_price $</th>
-         </tr>
-         <tr>
-              <td>shop owner</td>
-              <td>16</td>
-              <td>Cirebon</td>
-         </tr>
-         <tr>
-              <td>november</td>
-              <td>16</td>
-              <td>Cirebon</td>
-         </tr>
+           <a>
+              <a>discount</a>
+              <a>discount_persen%</a>
+              <a>normal_price $</a>
+        </table>
+         <a>
+              <a>shop owner</a>
+              <a>16</a>
+              <a>Cirebon</a>
+         </a>
+         <a>
+              <a>november</a>
+              <a>16</a>
+              <a>Cirebon</a>
+         </a>
      </table>
-</body>
-</html>
+    </content>
+</HTML>
 
-   <!DOCTYPE htlm>
+   <!--formulir beli-->
    <html "kiki_collection">
     <head>...
     <body class=container py-4">
-        <titel> kiki collection" </titel>
+        <titel> formulir </titel>
 <body class:middle class">
 <main brand lokal.id->
     <h1 class="cv>marketing</h1>
-        <!--tombol beli-->
+      <!--tombol beli-->
     <div class"peronal produk">
             <h2>transaksi </h2>
             <form method="BUY NOW">
@@ -71,12 +63,91 @@
          <imput type="email" name "end_date"email end name"></imput>
 
          <label for="pesan">pesan:</label> 
-<br>
+<a>
          <textarea id="pesan" name="pesan"rows="20" cols="50></textarea><br><br>
          <input type="submit"value="Kirim">
          </form>
-         </body>
+        </a collection>
+    </HTML>
+ 
+    <!--Gambar dan Media-->
+    <html>
+    <head JPG">
+        <title>JPG"</title>
+    </head>
+    <body>
+        <h1>Gambar di halaman web</h1>
+        <img scr="gambar.jpg" alt="product Gambar" width="500" heigh="300">
+        </body>
+        </html>
+
+      <!--Daftar dan Bullet Poins-->
+      <html>
+      <head product order">
+        <title>Category Products</title>
+        </head>
+        <body>
+            <h1>Category"</h1>
+            <a>
+              <a pakaian-pakaian_celana_atasan"></a>
+              <a pakaia-pakaian_wanita_Bawahan"></a>
+              <a pakaian-pakian_Pria_Bawahan"></a>
+        </a>
+
+        <!--inline dan internal-->
+        <html>
+        <head>
+            <title>tampilan luar dalam"</title>
+            <style>
+                <class=text-black { color: black:}
+
+            </style>
+        </head>
+        <body>
+            <a style="color: skyblue">ini adalah text skeybluendeengan CSS Iinline.</a>
+            <a class="text-black">Ini adalah teks black dengan CSS internal.</a>
+        </body>
+        </html>
+
+        <!--Elemen HTML 5 Baru-->
+        <html>
+        <head>
+            <title> <section> <ear></title>
+        </head>
+        <body>
+            <header>
+                <h1>Selamat datang di Website Kami</h1>
+            </header>
+
+            <section>
+                <h2>Bagian Utama <textarea name="kiki_collection" id="email"></textarea></h2>
+                <a>ini adalah bagian utama dari halaman web.kiki</a>
+
+            <ear>
+                <a><label for="kiki_collection & copy"; 2024 Semua Hak Dilindungi</a>
+                    </ear>
+        </body>
+        </html>
+
+        <!--Formulir Pencarian-->
+        <html>
+        <head>
+            <titel>Link.https://kiki_collection</titel>
+            </head>
+            <body>
+                <h1><link HTTP://kiki_collection"></h1>
+                <from action="/search"method="kiki_collection"get">
+                    <input type="text" name="querty" placeholder="Cari...">
+                    <input type="submit" value="Cari">
+
+            </from>
+         <body>
          </html>
+
+
+                    
+             
+
          
         
             
@@ -103,14 +174,5 @@
 
 
 
-
-
-
-
-
-<color:white;.>
-<text-align: center;>
-<p> font fmily:verdana;
-font_size curently
 
 
